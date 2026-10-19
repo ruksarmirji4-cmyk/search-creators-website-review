@@ -3,7 +3,7 @@
 **Internship Task:** Task 01 -- Website Review & Content Analysis\
 **Internship:** 1-Month Content Management Internship\
 **Name:** RUKSAR BANU RAJESAB MIRJI\
-**Internship ID:**SC-INT-2026-A9EC3A797A \
+**Internship ID:** SC-INT-2026-A9EC3A797A\
 **Website:** https://searchcreators.org/
 
 ------------------------------------------------------------------------
